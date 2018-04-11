@@ -5,7 +5,7 @@ I use this to quickly fetch `.gitignore` and `Makefile` files from GitHub. The g
 ## Installation
 
 ```
-$ git clone git@github.com:bitemyapp/lefortovo.git
+$ git clone https://github.com/bitemyapp/lefortovo
 $ cd lefortovo && cargo install
 ```
 
